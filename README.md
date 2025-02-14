@@ -84,7 +84,7 @@ README.md : Ce fichier, contenant les instructions d'installation et d'utilisati
 Pour vous déconnecter, cliquez sur le bouton "Déconnexion" dans le tableau de bord. Cela supprimera le token d'accès et vous redirigera vers la page d'accueil.
 
 📜 Licence
-Ce projet est sous licence MIT. Pour plus de détails, consultez le fichier LICENSE.
+Ce projet est libre il s'agit d'un simple exemple de connexion privée avec l'API Sellsy 
 
 👤 Auteur
 Sébastien Portrait
